@@ -1,4 +1,4 @@
 language: swift
 xcode_project: Travis_Demo.xcodeproj # path to your xcodeproj folder
 xcode_scheme: Travis_Demo
-script: xcodebuild -workspace Travis_Demo.xcworkspace -scheme Travis_Demo -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
+script: xcodebuild -workspace Travis_Demo.xcodeproj -scheme Travis_Demo -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
