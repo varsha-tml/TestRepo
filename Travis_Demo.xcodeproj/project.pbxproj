@@ -162,7 +162,6 @@
 				2664F73490558ADE572BC48E /* Pods-Travis_DemoUITests.debug.xcconfig */,
 				B14443CBC40E5964FBEE89BE /* Pods-Travis_DemoUITests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
